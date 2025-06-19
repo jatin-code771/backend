@@ -1,4 +1,4 @@
-# 🛡️ User Authentication System (Cohort Based)
+# 🛡️ User Authentication System 
 
 This is a Node.js-based authentication system built using Express, with secure practices like JWT tokens, cookie handling, validation, and modern authentication protocols. Designed as part of a cohort-based learning project.
 
